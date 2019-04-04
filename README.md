@@ -1,2 +1,2 @@
 # Regression-Analysis-on-Blog_Feedback
-Dataset contain featuresextracted from blog posts. Each observation in the dataset belongs to one blog post. The prediction task associated with the data is the prediction of the number of comments in upcoming 24 hours
+Dataset contain features extracted from blog posts. Each observation in the dataset belongs to one blog post. There are total 281 attributes in the dataset. The last attribute is our target attribute.We choose a basetime and select the blog posts before the selected basetime. The task associated with data is to predict how many comments the post will receive in upcoming 24 hours.
